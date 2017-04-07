@@ -1,0 +1,9 @@
+G:\Visual Studio 2015\Projects\Tri\TriTest\bin\Debug\TriTest.dll
+G:\Visual Studio 2015\Projects\Tri\TriTest\bin\Debug\TriTest.pdb
+G:\Visual Studio 2015\Projects\Tri\TriTest\bin\Debug\nunit.framework.dll
+G:\Visual Studio 2015\Projects\Tri\TriTest\bin\Debug\Tri.exe
+G:\Visual Studio 2015\Projects\Tri\TriTest\bin\Debug\Tri.pdb
+G:\Visual Studio 2015\Projects\Tri\TriTest\bin\Debug\nunit.framework.xml
+G:\Visual Studio 2015\Projects\Tri\TriTest\obj\Debug\TriTest.csprojResolveAssemblyReference.cache
+G:\Visual Studio 2015\Projects\Tri\TriTest\obj\Debug\TriTest.dll
+G:\Visual Studio 2015\Projects\Tri\TriTest\obj\Debug\TriTest.pdb

@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--This file represents the results of running a test suite-->
+<test-results name="G:\Visual Studio 2015\Projects\Tri\TriTest\bin\Release\TriTest.dll" total="17" errors="0" failures="0" not-run="0" inconclusive="0" ignored="0" skipped="0" invalid="0" date="2017-04-07" time="15:41:47">
+  <environment nunit-version="2.6.4.14350" clr-version="2.0.50727.5485" os-version="Microsoft Windows NT 6.1.7601 Service Pack 1" platform="Win32NT" cwd="C:\Program Files (x86)\NUnit 2.6.4\bin" machine-name="2A409-C06" user="gsingh0370" user-domain="CONESTOGAC" />
+  <culture-info current-culture="en-US" current-uiculture="en-US" />
+  <test-suite type="Assembly" name="G:\Visual Studio 2015\Projects\Tri\TriTest\bin\Release\TriTest.dll" executed="True" result="Success" success="True" time="0.080" asserts="0">
+    <results>
+      <test-suite type="Namespace" name="TestPro" executed="True" result="Success" success="True" time="0.074" asserts="0">
+        <results>
+          <test-suite type="TestFixture" name="UnitTests" executed="True" result="Success" success="True" time="0.073" asserts="0">
+            <results>
+              <test-case name="TestPro.UnitTests.When_a_lt_0_Expect_Invalid" executed="True" result="Success" success="True" time="0.043" asserts="1" />
+              <test-case name="TestPro.UnitTests.When_a0_Expect_Invalid" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+              <test-case name="TestPro.UnitTests.When_a10_b7_c4_Expect_Scalene" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+              <test-case name="TestPro.UnitTests.When_a1024_b1024_c1024_Expect_Equilateral" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+              <test-case name="TestPro.UnitTests.When_a110_b210_c310_Expect_Scalene" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+              <test-case name="TestPro.UnitTests.When_a2_b23_c8_Expect_Invalid" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+              <test-case name="TestPro.UnitTests.When_a2_b8_c23_Expect_Invalid" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+              <test-case name="TestPro.UnitTests.When_a23_b2_c8_Expect_Invalid" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+              <test-case name="TestPro.UnitTests.When_a356_b332_c397_Expect_Scalene" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+              <test-case name="TestPro.UnitTests.When_a5_b5_c1_Expect_Isosceles" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+              <test-case name="TestPro.UnitTests.When_a5_b5_c5_Expect_Equilateral" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+              <test-case name="TestPro.UnitTests.When_a51_b33_c33_Expect_Isosceles" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+              <test-case name="TestPro.UnitTests.When_a55_b25_c55_Expect_Isosceles" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+              <test-case name="TestPro.UnitTests.When_b_lt_0_Expect_Invalid" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+              <test-case name="TestPro.UnitTests.When_b0__Invalid" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+              <test-case name="TestPro.UnitTests.When_c_lt_0__Expect_Invalid" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+              <test-case name="TestPro.UnitTests.When_c0Invalid" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+            </results>
+          </test-suite>
+        </results>
+      </test-suite>
+    </results>
+  </test-suite>
+</test-results>

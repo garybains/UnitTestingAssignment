@@ -1,0 +1,10 @@
+\\FS06D\Stu7\Home\Gsingh0370\Visual Studio 2015\Projects\Tri\Tri\bin\Release\Tri.exe.config
+\\FS06D\Stu7\Home\Gsingh0370\Visual Studio 2015\Projects\Tri\Tri\bin\Release\Tri.exe
+\\FS06D\Stu7\Home\Gsingh0370\Visual Studio 2015\Projects\Tri\Tri\bin\Release\Tri.pdb
+\\FS06D\Stu7\Home\Gsingh0370\Visual Studio 2015\Projects\Tri\Tri\obj\Release\Tri.exe
+\\FS06D\Stu7\Home\Gsingh0370\Visual Studio 2015\Projects\Tri\Tri\obj\Release\Tri.pdb
+G:\Visual Studio 2015\Projects\Tri\Tri\bin\Release\Tri.exe.config
+G:\Visual Studio 2015\Projects\Tri\Tri\bin\Release\Tri.exe
+G:\Visual Studio 2015\Projects\Tri\Tri\bin\Release\Tri.pdb
+G:\Visual Studio 2015\Projects\Tri\Tri\obj\Release\Tri.exe
+G:\Visual Studio 2015\Projects\Tri\Tri\obj\Release\Tri.pdb

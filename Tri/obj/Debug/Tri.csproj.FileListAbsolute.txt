@@ -1,0 +1,12 @@
+\\FS06D\Stu7\Home\Gsingh0370\Visual Studio 2015\Projects\Tri\Tri\bin\Debug\Tri.exe.config
+\\FS06D\Stu7\Home\Gsingh0370\Visual Studio 2015\Projects\Tri\Tri\bin\Debug\Tri.exe
+\\FS06D\Stu7\Home\Gsingh0370\Visual Studio 2015\Projects\Tri\Tri\bin\Debug\Tri.pdb
+\\FS06D\Stu7\Home\Gsingh0370\Visual Studio 2015\Projects\Tri\Tri\obj\Debug\Tri.csprojResolveAssemblyReference.cache
+\\FS06D\Stu7\Home\Gsingh0370\Visual Studio 2015\Projects\Tri\Tri\obj\Debug\Tri.exe
+\\FS06D\Stu7\Home\Gsingh0370\Visual Studio 2015\Projects\Tri\Tri\obj\Debug\Tri.pdb
+G:\Visual Studio 2015\Projects\Tri\Tri\bin\Debug\Tri.exe.config
+G:\Visual Studio 2015\Projects\Tri\Tri\obj\Debug\Tri.exe
+G:\Visual Studio 2015\Projects\Tri\Tri\obj\Debug\Tri.pdb
+G:\Visual Studio 2015\Projects\Tri\Tri\bin\Debug\Tri.exe
+G:\Visual Studio 2015\Projects\Tri\Tri\bin\Debug\Tri.pdb
+G:\Visual Studio 2015\Projects\Tri\Tri\obj\Debug\Tri.csprojResolveAssemblyReference.cache
