@@ -8,23 +8,23 @@ namespace Triangle
 {
     public static class TriangleSolver
     {
-        public static string Analyze(int a, int b, int c)
+        public static string Analyze(int a, int b, int c) // 1A
         {
             if (!ValidateTri(a, b, c)) return "Invalid"; // this shouldn't count as a if :/
 
-            int idx = 0;
-            if (a == b)
-                idx++;
-
-            if (b == c)
-                idx++;
-
-            if (a == c)
-                idx++;
-
+            int idx = 0; // 2A
             string[] type = new String[] { "Scalene", "Isosceles", "", "Equilateral" };
 
-            return type[idx];
+            if (a == b) // B
+                idx++;  // C
+
+            if (b == c) // D
+                idx++;  // E
+
+            if (a == c) // F
+                idx++;  // G
+
+            return type[idx]; // H
         }
         static bool ValidateTri(int a, int b, int c)
         {
