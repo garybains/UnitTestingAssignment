@@ -46,19 +46,19 @@ namespace TestPro
         }
 
         [Test]
-        public void When_a_lt_0_Expect_Invalid() // lt = lesss than
+        public void When_a_lt_0_Expect_Invalid() // lt = less than
         {
             Assert.AreEqual("Invalid", Triangle.TriangleSolver.Analyze(-1, 2, 100), "a is less than zero");
         }
 
         [Test]
-        public void When_b_lt_0_Expect_Invalid() // lt = lesss than
+        public void When_b_lt_0_Expect_Invalid() // lt = less than
         {
             Assert.AreEqual("Invalid", Triangle.TriangleSolver.Analyze(1, -2, 100), "b is less than zero");
         }
 
         [Test]
-        public void When_c_lt_0__Expect_Invalid() // lt = lesss than
+        public void When_c_lt_0__Expect_Invalid() // lt = less than
         {
             Assert.AreEqual("Invalid", Triangle.TriangleSolver.Analyze(1, 2, -54), "c is less than zero");
         }
